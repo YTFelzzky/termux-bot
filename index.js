@@ -39,19 +39,19 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:OWNER GANZ\n' 
+            + 'FN:UNIXO BOT\n' 
             + 'ORG: Pengembang BOT;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=628990542731:+62 899-0542-731\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=628997648380:+62 899-7648-380\n' 
             + 'END:VCARD' 
 blocked = []   
-prefix = '#'
+prefix = '!'
 limitawal = 30
 memberlimit = 5
 cr = '*VERIFIED*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["628990542731@s.whatsapp.net"] 
+const ownerNumber = ["628997648380@s.whatsapp.net"] 
 /************************************/
 
        
